@@ -4,11 +4,13 @@
 
 ## **About Me:**
 
-🔭 My name is Ayanami1314, a trivial undergraduate student from **@SJTU** and major in software-engineering **@SJTU-SE**.
+🔭 My name is Ayanami1314, a trivial undergraduate student from **@SJTU** majoring in software-engineering **@SJTU-SE**.
 
 💻 I’ve learnt a litte **Web development**, **Operating System** and **Computer Organization**.
 
 🌏 I’m currently working on **xv6-riscv**, **eBookStore**, **LSM-KV** and **NJU-PA**.
+
+📒 I'm writing some blogs in <a href="https://ayanami1314.github.io/">my website</a>. The blogs are some of my ideas and notes when learning and coding.
 
 📜 I'm a big fan of **Hollow Knight, Ori, The Binding of Issac and Slay the Spire**(All great independent games!).I really enjoy playing **video games**, reading **novels** and playing **badminton**.
 
