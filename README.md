@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/Ayanami1314/Ayanami1314/blob/main/assets/Programming.png)
+![image](https://github.com/Ayanami1314/Ayanami1314/blob/master/assets/Programming.png)
 
 ## **About Me:**
 
