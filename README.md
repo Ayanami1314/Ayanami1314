@@ -4,7 +4,7 @@
 
 ## **About Me:**
 
-🔭 My name is Ayanami1314, a trivial undergraduate student from **@SJTU** and software-engineering **@SJTU-SE**.
+🔭 My name is Ayanami1314, a trivial undergraduate student from **@SJTU** and major in software-engineering **@SJTU-SE**.
 
 💻 I’ve learnt a litte **Web development**, **Operating System** and **Computer Organization**.
 
