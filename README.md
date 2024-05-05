@@ -48,15 +48,13 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 85.7 kB Used in GitHub's Storage 
- > 
-> 🏆 43 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,7 +118,7 @@ JavaScript               2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2024 18:38:44 UTC
+ Last Updated on 05/05/2024 18:39:07 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
