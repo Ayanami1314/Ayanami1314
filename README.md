@@ -48,7 +48,7 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -120,7 +120,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2024 18:40:30 UTC
+ Last Updated on 21/06/2024 18:41:50 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
