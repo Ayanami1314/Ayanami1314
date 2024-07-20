@@ -48,7 +48,7 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-794%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,7 +56,7 @@
 
 > 📦 65.7 kB Used in GitHub's Storage 
  > 
-> 🏆 151 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,10 +67,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-🌆 Daytime                76 commits          █████████░░░░░░░░░░░░░░░░   34.55 % 
-🌃 Evening                98 commits          ███████████░░░░░░░░░░░░░░   44.55 % 
-🌙 Night                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+🌆 Daytime                71 commits          ████████░░░░░░░░░░░░░░░░░   33.02 % 
+🌃 Evening                98 commits          ███████████░░░░░░░░░░░░░░   45.58 % 
+🌙 Night                  39 commits          █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 ```
 
 
@@ -117,7 +117,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2024 18:41:44 UTC
+ Last Updated on 20/07/2024 18:40:53 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
