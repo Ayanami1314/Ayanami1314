@@ -48,15 +48,11 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2042%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 65.8 kB Used in GitHub's Storage 
- > 
-> 🏆 151 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,42 +60,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-🌆 Daytime                73 commits          ████████░░░░░░░░░░░░░░░░░   33.64 % 
-🌃 Evening                98 commits          ███████████░░░░░░░░░░░░░░   45.16 % 
-🌙 Night                  39 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-C                        10 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   37.86 % 
-Go                       7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Python                   5 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Git Config               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-🔥 Editors: 
-VS Code                  27 hrs 7 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ics2023                  11 hrs 32 mins      ███████████░░░░░░░░░░░░░░   42.54 % 
-pyqt-proj                4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-jcourse_go               4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-struct_method            3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-discord-clone            1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-
-💻 Operating System: 
-Linux                    27 hrs 7 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -117,7 +77,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2024 18:41:20 UTC
+ Last Updated on 24/07/2024 18:43:22 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
