@@ -48,13 +48,15 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 68.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 155 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,16 +80,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Ruby                     0 secs              █████████████████████████   100.00 % 
+Python                   4 hrs 40 mins       █████████████████████████   99.86 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ruby                     0 secs              █████████████████████████   100.00 % 
+QLink2                   4 hrs 40 mins       █████████████████████████   99.86 % 
+LSM-KV                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Linux                    4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +111,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2024 18:42:34 UTC
+ Last Updated on 27/08/2024 18:44:03 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
