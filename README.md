@@ -8,7 +8,7 @@
 
 💻 I’ve learnt a litte **Web development**, **Operating System** and **Computer Organization**.
 
-🌏 I’m currently working on **xv6-riscv**, **eBookStore**, **LSM-KV** and **NJU-PA**.
+🌏 I’m currently working on **RookieDB**, **eBookStore**, **jcourse_go** and **NJU-PA**.
 
 📒 I'm writing some blogs in <a href="https://ayanami1314.github.io/">my website</a>. The blogs are some of my ideas and notes when learning and coding.
 
@@ -20,7 +20,7 @@
 
 💬 All of my projects are available at <a href="https://github.com/Ayanami1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ayanami" height="30" width="40" /></a>
 
-🌱 I’m studying on **OS, Full-Stack Development, Distribution, Database, Concurrency and Network**
+🌱 I’m studying on **OS, Full-Stack Development, Distribution, Database**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayanami1314&theme=radical&hide_border=true"/>
