@@ -129,11 +129,11 @@ HTML                     2 repos             ██░░░░░░░░░�
 <details>
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	   <li><b>OS:</b> Windows 11 / Ubuntu 22.04(wsl2) / Ubuntu 22.04 </li>
+  	   <li><b>OS:</b> Ubuntu 24.04 / Windows 11 / Fedora 40(wsl2) </li>
 	     <li><b>Laptop:OMEN by HP Laptop</b> </li>
   	   <li><b>Browser: </b> Google Browser</li>
-	     <li><b>Code Editor:</b> VSCode / IntelliJ / Pycharm </li>
-	     <li><b>To Stay Updated:</b> April 16th 2024</li>
+	     <li><b>Code Editor:</b> VSCode / IntelliJ / GoLand</li>
+	     <li><b>To Stay Updated:</b> Nov 21th 2024</li>
 	    <br />
 	</ul>
 </details>
