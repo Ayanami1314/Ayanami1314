@@ -54,8 +54,6 @@
 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -78,20 +76,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 49 mins             █████████████████████░░░░   83.93 % 
-TypeScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-awesome-se               34 mins             ███████████████░░░░░░░░░░   59.16 % 
-eBookStore_Frontend      14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-my-website               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -111,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2025 18:45:38 UTC
+ Last Updated on 28/01/2025 18:46:17 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
