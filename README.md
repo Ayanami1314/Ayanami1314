@@ -54,8 +54,6 @@
 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -107,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 04/02/2025 18:45:25 UTC
+ Last Updated on 05/02/2025 18:45:48 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
