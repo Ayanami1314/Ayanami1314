@@ -54,8 +54,6 @@
 
 > 📦 116.0 kB Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -78,18 +76,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 45 mins             █████████████████░░░░░░░░   67.25 % 
-YAML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-OS-Course-Lab-WIP-on-docs1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -109,7 +105,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 18:46:59 UTC
+ Last Updated on 21/02/2025 18:45:50 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
