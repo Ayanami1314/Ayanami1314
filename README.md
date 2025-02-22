@@ -13,6 +13,7 @@
 👀 I'm a lab intern in SJTU-REINS and a corporate intern in BondiTech.
 
 😘 I'm passionate about open-source projects and culture. Previously, I mainly contributed to [Chcore](https://github.com/SJTU-IPADS/OS-Course-Lab) and [jcourse_go](https://github.com/SJTU-jCourse/jcourse_go), and I am looking forward to more participation and collaboration in the open-source community.
+
 📒 I'm writing some blogs in <a href="https://ayanami1314.github.io/">my website</a>. The blogs are some of my ideas and notes when learning and coding.
 
 📜 I'm a big fan of **Hollow Knight, Ori, The Binding of Issac and Slay the Spire**(All great independent games!).I really enjoy playing **video games**, reading **novels** and playing **badminton**.
