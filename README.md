@@ -8,8 +8,11 @@
 
 💻 I’ve learnt a litte **Web development**, **Operating System** and **Computer Networks**.
 
-🌏 I’m currently working on **Bustub**, **jCourse**, **Chcore** and **ChFS**.
+🌏 I’m currently working on **Web Backend**, **RAG/LLM**, **(MA)RL** and **Cloud Native**.
 
+👀 I'm a lab intern in SJTU-REINS and a corporate intern in BondiTech.
+
+😘 I'm passionate about open-source projects and culture. Previously, I mainly contributed to [Chcore](https://github.com/SJTU-IPADS/OS-Course-Lab) and [jcourse_go](https://github.com/SJTU-jCourse/jcourse_go), and I am looking forward to more participation and collaboration in the open-source community.
 📒 I'm writing some blogs in <a href="https://ayanami1314.github.io/">my website</a>. The blogs are some of my ideas and notes when learning and coding.
 
 📜 I'm a big fan of **Hollow Knight, Ori, The Binding of Issac and Slay the Spire**(All great independent games!).I really enjoy playing **video games**, reading **novels** and playing **badminton**.
@@ -18,7 +21,7 @@
 
 💬 All of my projects are available at <a href="https://github.com/Ayanami1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ayanami" height="30" width="40" /></a>
 
-🌱 I’m studying on **OS, Full-Stack Development, Distribution, Database**
+🌱 I’m studying on **RLHF, Full-Stack Development, Distributed Systems**
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayanami1314&theme=radical&hide_border=true"/>
@@ -33,7 +36,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,docker,vim,vscode,git,mongodb,mysql,postgresql,redis,rabbitmq,nginx" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,vim,vscode,git,mongodb,mysql,postgresql,redis,nginx" />
   </a>
 </p>
 
@@ -124,7 +127,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 ## **Github States:**
 
 ![Ayanami1314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanami1314&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanami1314&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayanami1314&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <details>
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
