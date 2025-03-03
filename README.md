@@ -50,13 +50,15 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 116.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,16 +82,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     1 min               █████████████████████████   100.00 % 
+C++                      15 mins             ████████████░░░░░░░░░░░░░   48.45 % 
+Python                   15 mins             ████████████░░░░░░░░░░░░░   48.00 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-light_mappo              1 min               █████████████████████████   100.00 % 
+playground               15 mins             ████████████░░░░░░░░░░░░░   48.45 % 
+light_mappo              10 mins             ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Pharos-collaboration-and-6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████░░░░░░░░░░░░   51.55 % 
+WSL                      15 mins             ████████████░░░░░░░░░░░░░   48.45 % 
 ```
 
 **I Mostly Code in C++** 
@@ -109,7 +116,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 18:45:57 UTC
+ Last Updated on 03/03/2025 18:47:38 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
