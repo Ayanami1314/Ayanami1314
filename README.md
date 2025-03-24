@@ -50,7 +50,7 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C334%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,16 +80,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 35 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          35 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +109,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 18:45:19 UTC
+ Last Updated on 24/03/2025 18:49:34 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
