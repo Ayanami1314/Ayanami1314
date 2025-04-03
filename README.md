@@ -58,14 +58,40 @@
 
 > 📦 118.4 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+🌆 Daytime                256 commits         ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+🌃 Evening                381 commits         ██████████░░░░░░░░░░░░░░░   39.90 % 
+🌙 Night                  302 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 26 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  26 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          26 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    26 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -83,7 +109,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 18:49:30 UTC
+ Last Updated on 03/04/2025 18:48:58 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
