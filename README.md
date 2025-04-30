@@ -50,7 +50,7 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -80,17 +80,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   19 mins             █████████████████████░░░░   84.66 % 
-YAML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Python                   1 hr 36 mins        ████████████████████████░   96.49 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pharos-HARL              22 mins             █████████████████████████   100.00 % 
+pharos-HARL              1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      22 mins             █████████████████████████   100.00 % 
+WSL                      1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 18:49:31 UTC
+ Last Updated on 30/04/2025 18:50:23 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
