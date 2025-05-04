@@ -64,6 +64,34 @@
  > 
 > 🔑 22 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+🌆 Daytime                292 commits         ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+🌃 Evening                435 commits         ██████████░░░░░░░░░░░░░░░   39.55 % 
+🌙 Night                  357 commits         ████████░░░░░░░░░░░░░░░░░   32.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   1 hr 27 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+pharos-HARL              1 hr 27 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      1 hr 27 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +109,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2025 18:47:18 UTC
+ Last Updated on 04/05/2025 18:48:09 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
