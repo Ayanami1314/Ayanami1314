@@ -50,7 +50,7 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -58,48 +58,14 @@
 
 > 📦 178.9 kB Used in GitHub's Storage 
  > 
+> 🏆 19 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-🌆 Daytime                293 commits         ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-🌃 Evening                437 commits         ██████████░░░░░░░░░░░░░░░   39.51 % 
-🌙 Night                  360 commits         ████████░░░░░░░░░░░░░░░░░   32.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   5 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-YAML                     4 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
-Other                    4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-TypeScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 21 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-pharos-HARL              15 hrs 31 mins      ████████████████████████░   94.90 % 
-deer-flow                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-pharos-visual-3d         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-
-💻 Operating System: 
-WSL                      16 hrs 11 mins      █████████████████████████   98.95 % 
-Windows                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -117,7 +83,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2025 18:51:53 UTC
+ Last Updated on 16/05/2025 18:50:54 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
