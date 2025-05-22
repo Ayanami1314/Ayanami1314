@@ -50,18 +50,57 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 179.0 kB Used in GitHub's Storage 
  > 
+> 🏆 19 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+🌆 Daytime                298 commits         ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌃 Evening                443 commits         ██████████░░░░░░░░░░░░░░░   39.41 % 
+🌙 Night                  366 commits         ████████░░░░░░░░░░░░░░░░░   32.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   3 hrs 20 mins       █████████████████████░░░░   85.38 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+pharos-HARL              3 hrs 10 mins       ████████████████████░░░░░   80.92 % 
+nacos-mcp-router         29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Multi-Agent-Transformer  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+pharos-visual-3d         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+
+💻 Operating System: 
+WSL                      3 hrs 54 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -79,7 +118,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2025 18:51:43 UTC
+ Last Updated on 22/05/2025 18:51:48 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
