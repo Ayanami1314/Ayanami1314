@@ -50,15 +50,13 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C384%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C386%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 180.1 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,16 +80,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 mins              █████████████████████████   100.00 % 
+Python                   1 hr 25 mins        █████████████████████░░░░   82.42 % 
+YAML                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-paper reading            7 mins              █████████████████████████   100.00 % 
+playground               1 hr 12 mins        █████████████████░░░░░░░░   69.98 % 
+pharos-HARL              31 mins             ████████░░░░░░░░░░░░░░░░░   30.02 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+WSL                      1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +112,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2025 18:53:07 UTC
+ Last Updated on 11/06/2025 18:53:22 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
