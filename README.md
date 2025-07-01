@@ -50,13 +50,13 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C404%20hrs%2036%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 195.5 kB Used in GitHub's Storage 
+> 📦 215.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,39 +64,6 @@
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-🌆 Daytime                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌃 Evening                461 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
-🌙 Night                  384 commits         ████████░░░░░░░░░░░░░░░░░   32.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   7 hrs 23 mins       ████████████████████████░   96.81 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 37 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-pharos-solver            6 hrs 15 mins       █████████████████████░░░░   82.08 % 
-pharos-HARL              49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-playground               32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-
-💻 Operating System: 
-WSL                      7 hrs 37 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -114,7 +81,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 18:53:16 UTC
+ Last Updated on 01/07/2025 18:52:09 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
