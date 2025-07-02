@@ -50,13 +50,13 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C404%20hrs%2036%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 215.6 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,6 +64,36 @@
  > 
 > 🔑 23 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+🌆 Daytime                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+🌃 Evening                461 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
+🌙 Night                  384 commits         ████████░░░░░░░░░░░░░░░░░   32.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   32 mins             ██████████████████░░░░░░░   73.43 % 
+YAML                     11 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+
+🔥 Editors: 
+VS Code                  43 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+playground               32 mins             ██████████████████░░░░░░░   73.43 % 
+pharos-HARL              11 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+
+💻 Operating System: 
+WSL                      43 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +111,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2025 18:52:09 UTC
+ Last Updated on 02/07/2025 18:53:21 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
