@@ -56,7 +56,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 216.1 kB Used in GitHub's Storage 
+> 📦 223.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,34 +66,6 @@
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                20 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-🌆 Daytime                315 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-🌃 Evening                461 commits         ██████████░░░░░░░░░░░░░░░   39.07 % 
-🌙 Night                  384 commits         ████████░░░░░░░░░░░░░░░░░   32.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   1 hr 32 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-interviews               1 hr 32 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      1 hr 32 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -109,7 +83,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 13/07/2025 18:50:59 UTC
+ Last Updated on 14/07/2025 18:56:56 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
