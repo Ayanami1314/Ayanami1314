@@ -50,13 +50,15 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C407%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 195.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,16 +82,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     47 mins             ███████████░░░░░░░░░░░░░░   45.98 % 
+Python                   46 mins             ███████████░░░░░░░░░░░░░░   44.94 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 43 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+propilot-dev             1 hr 43 mins        █████████████████████████   99.91 % 
+playground               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 43 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +115,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2025 18:56:40 UTC
+ Last Updated on 16/07/2025 18:56:24 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
