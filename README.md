@@ -52,13 +52,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C424%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 280.9 kB Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,40 +64,6 @@
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-🌆 Daytime                361 commits         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-🌃 Evening                483 commits         █████████░░░░░░░░░░░░░░░░   37.44 % 
-🌙 Night                  401 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   16 mins             █████████████░░░░░░░░░░░░   50.27 % 
-Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-
-🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-tokenizer-search         25 mins             ███████████████████░░░░░░   76.19 % 
-cartridges               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-playground               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-
-💻 Operating System: 
-WSL                      33 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -117,7 +81,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2025 18:51:28 UTC
+ Last Updated on 22/08/2025 18:51:37 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
