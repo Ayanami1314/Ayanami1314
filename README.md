@@ -50,13 +50,13 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 281.0 kB Used in GitHub's Storage 
+> 📦 280.9 kB Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2025
  > 
@@ -66,37 +66,6 @@
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-🌆 Daytime                361 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌃 Evening                486 commits         █████████░░░░░░░░░░░░░░░░   37.59 % 
-🌙 Night                  401 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   13 mins             █████████████████░░░░░░░░   66.31 % 
-Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-
-🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-tokenizer-search         21 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      21 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -114,7 +83,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 18:51:15 UTC
+ Last Updated on 29/08/2025 18:48:58 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
