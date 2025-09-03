@@ -50,13 +50,15 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C429%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C430%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 280.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,6 +66,39 @@
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+🌆 Daytime                361 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+🌃 Evening                486 commits         █████████░░░░░░░░░░░░░░░░   37.59 % 
+🌙 Night                  401 commits         ████████░░░░░░░░░░░░░░░░░   31.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   4 hrs 49 mins       ███████████████████░░░░░░   77.85 % 
+Markdown                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+SWE-QA                   5 hrs 56 mins       ████████████████████████░   95.93 % 
+SWE-agent                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+
+💻 Operating System: 
+WSL                      6 hrs 11 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +116,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2025 18:49:26 UTC
+ Last Updated on 03/09/2025 18:48:08 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
