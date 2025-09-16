@@ -50,8 +50,6 @@
 ## **Recent Activities:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C432%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -64,36 +62,6 @@
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-🌆 Daytime                361 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-🌃 Evening                486 commits         █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌙 Night                  402 commits         ████████░░░░░░░░░░░░░░░░░   31.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 25 mins             ███████████████████░░░░░░   75.39 % 
-JSON                     8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-my-website               34 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      34 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -111,7 +79,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayanami1314/Ayanami1314/master/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 18:50:43 UTC
+ Last Updated on 16/09/2025 18:50:50 UTC
 <!--END_SECTION:waka-->
 
 ## **Github States:**
