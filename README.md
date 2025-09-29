@@ -10,7 +10,7 @@
 
 🌏 I’m currently working on **LLM**, **AI for SE(code agent, etc)**, **RL and post-training**.
 
-👀 I'm a lab intern in SJTU-REINS and a corporate intern in ByteTech now（interned in Metabit-Trading and BondiTech also）
+👀 I'm a lab intern in SJTU-REINS and a corporate intern in ByteDance now（interned in Metabit-Trading and BondiTech also）
 
 😘 I'm passionate about open-source projects and culture. Previously, I mainly contributed to [Chcore](https://github.com/SJTU-IPADS/OS-Course-Lab) and [jcourse_go](https://github.com/SJTU-jCourse/jcourse_go), and I am looking forward to more participation and collaboration in the open-source community.
 
