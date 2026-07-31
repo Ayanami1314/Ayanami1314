@@ -2,7 +2,7 @@
 
 🔭 My name is Ayanami1314, a trivial undergraduate student from **@SJTU** majoring in software-engineering **@SJTU-SE**.
 
-🌏 I’m currently working on **LLM**, **AI for SE(code agent, etc)**, **RL and post-training**. Works and papers ongoing!
+🌏 I’m currently working on **LLM**(**pre-training / post-training / code agent**), **AI for SE(swe/game/...)**,  Works and papers ongoing!
 
 👀 I'm a corporate intern in **Xiaomi Mimo** now（interned in Bytedance Douyin,Metabit-Trading and BondiTech）
 
