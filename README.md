@@ -1,31 +1,51 @@
 ## **About Me:**
 
-🔭 My name is Ayanami1314, a trivial undergraduate student from **@SJTU** majoring in software-engineering **@SJTU-SE**.
+My name is **YuHang Wang** (Ayanami1314), an undergraduate student at **Shanghai Jiao Tong University (SJTU)** majoring in **Software Engineering (SJTU-SE)**.
 
-🌏 I’m currently working on **LLM**, **AI for SE(code agent, etc)**, **RL and post-training**. Works and papers ongoing!
+I'm passionate about **Large Language Models** (pre-training, post-training, RL) and **AI for Software Engineering** (code agents, software engineering automation).
 
-👀 I'm a corporate intern in **Xiaomi Mimo** now（interned in Bytedance Douyin,Metabit-Trading and BondiTech）
+Currently, I'm a pretrain data researcher at **[Xiaohongshu Dots](https://www.xiaohongshu.com/)**, working on pretrain data (code) and midtrain. Previously, I interned at **[Xiaomi MiMo](https://mimo.xiaomi.com/zh/)**, **ByteDance (Douyin)**, **Metabit Trading**, and **BondiTech**.
 
-😘 I'm passionate about open-source projects and culture. Previously, I mainly contributed to [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner), [Chcore](https://github.com/SJTU-IPADS/OS-Course-Lab) and [jcourse_go](https://github.com/SJTU-jCourse/jcourse_go), and I am looking forward to more participation and collaboration in the open-source community.
+I'm a strong believer in open-source culture. Check out my selected projects below!
 
-📒 I'm writing some blogs in <a href="https://ayanami1314.github.io/">my website</a>. The blogs are some of my ideas and notes when learning and coding.
+I'm writing blogs on <a href="https://ayanami1314.github.io/">my website</a> — notes and ideas from learning and coding.
 
-📜 I'm a big fan of **Hollow Knight, Ori, The Binding of Issac and Slay the Spire**(All great independent games!).
-- Also, looking forwards to some AI for Game cooperations(Just as a game enthusiast).
+## **Research Interests:**
 
-📫 How to reach me:
-- **lingbo_2022@sjtu.edu.cn**
+| Area | Topics |
+|------|--------|
+| LLM | Pre-training, Post-training, RL |
+| AI for SE | Code Agents, Software Engineering Automation |
+| Systems | Operating Systems, Agent Native Infra |
+
+Also, looking forwards to some AI for Game cooperations(As a game enthusiast).
+
+## **Selected Open-Source Projects:**
+
+| Project | Role | Description |
+|---------|------|-------------|
+| [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner) | First Author | Context pruning tool for LLM-based software engineering tasks |
+| [SWE-Pruner Pro](https://github.com/Ayanami1314/swe-pruner-pro) | First Author | LLM-native context pruning for tool calling |
+| [SWE-Explore Bench](https://github.com/Qiushao-E/SWE-Explore-Bench) | Co-First Author | Benchmarking how coding agents explore repositories |
+| [FastContext](https://github.com/CAMV1234/fastcontext) | Contributor | Training efficient repository explorer for coding agents |
+
+
+## **Reach out to me:**
+
+<p align="center">
+<a href="https://Ayanami1314.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+<a href="mailto:lingbo_2022@sjtu.edu.cn"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Ayanami1314" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.semanticscholar.org/author/Yuhang-Wang/2381139725" target="_blank"><img align="center" src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Scholar" /></a>
+</p>
 
 (So why Ayanami? ayanami_(azur_lane) is my favorite anime character ^^. Just look my avatar.)
 
-## **Reach out to me:** ️
 
-<p align="center">
-<a href="https://Ayanami1314.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="abhinandanraj" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayanami1314&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayanami1314&label=Visitors&color=0088cc&style=flat-square" alt="Visitors" /> </p>
 
-
-## **Github States:**
+## **GitHub Stats:**
 
 ![Ayanami1314's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayanami1314&show_icons=true&bg_color=00000000)
+
 
